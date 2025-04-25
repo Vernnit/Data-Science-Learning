@@ -9,4 +9,6 @@ The purpose of creating this repo is to manage my notes and all the mini project
 
 **Notebooks -** Contains all my jupyter notebooks with all the notes and code for the particular concept / tool / library I will be learning.
 
-**Resources-** Contains all the data files and other files being used while learning.
+**Resources -** Contains all the data files and other files being used while learning.
+
+**Assignments -** Contains all the assignments I took to understand the particular tool / library / concept.
